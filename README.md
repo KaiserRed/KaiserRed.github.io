@@ -8,23 +8,23 @@ EmojiSharp - это уникальный и забавный функциона�
 
 
 
-1. [Реализованный функционал](https://github.com/KaiserRed/KaiserRed.github.io?tab=readme-ov-file#%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB)
-2. [Основные типы данных](https://github.com/KaiserRed/KaiserRed.github.io?tab=readme-ov-file#%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5-%D1%82%D0%B8%D0%BF%D1%8B-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
-3. [Синтаксис](https://github.com/KaiserRed/KaiserRed.github.io?tab=readme-ov-file#%D1%81%D0%B8%D0%BD%D1%82%D0%B0%D0%BA%D1%81%D0%B8%D1%81)
-    - [Основы](https://github.com/KaiserRed/KaiserRed.github.io?tab=readme-ov-file#%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B)
-    - [Арифметические и логические операции](https://github.com/KaiserRed/KaiserRed.github.io?tab=readme-ov-file#%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5-%D0%B8-%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5-%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8)
-    - [Лямбда выражения](https://github.com/KaiserRed/KaiserRed.github.io?tab=readme-ov-file#%D0%BB%D1%8F%D0%BC%D0%B1%D0%B4%D0%B0-%D0%B2%D1%8B%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F)
-    - [Функции](https://github.com/KaiserRed/KaiserRed.github.io?tab=readme-ov-file#%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8)
+1. [Реализованный функционал](https://kaiserred.github.io/#%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB)
+2. [Основные типы данных](https://kaiserred.github.io/#%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5-%D1%82%D0%B8%D0%BF%D1%8B-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
+3. [Синтаксис](https://kaiserred.github.io/#%D1%81%D0%B8%D0%BD%D1%82%D0%B0%D0%BA%D1%81%D0%B8%D1%81)
+    - [Основы](https://kaiserred.github.io/#%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B)
+    - [Арифметические и логические операции](https://kaiserred.github.io/#%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5-%D0%B8-%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5-%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8)
+    - [Лямбда выражения](https://kaiserred.github.io/#%D0%BB%D1%8F%D0%BC%D0%B1%D0%B4%D0%B0-%D0%B2%D1%8B%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F)
+    - [Функции](https://kaiserred.github.io/#%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8)
     - [Определение привязок](https://github.com/KaiserRed/KaiserRed.github.io?tab=readme-ov-file#%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%B8%D0%B2%D1%8F%D0%B7%D0%BE%D0%BA)
-    - [Условные выражения](https://github.com/KaiserRed/KaiserRed.github.io?tab=readme-ov-file#%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5-%D0%B2%D1%8B%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F)
-    - [Списки](https://github.com/KaiserRed/KaiserRed.github.io?tab=readme-ov-file#%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8)
-    - [Стандартная библиотека](https://github.com/KaiserRed/KaiserRed.github.io?tab=readme-ov-file#%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D0%B0%D1%8F-%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0)
-    - [Функции высших порядков](https://github.com/KaiserRed/KaiserRed.github.io?tab=readme-ov-file#%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8-%D0%B2%D1%8B%D1%81%D1%88%D0%B8%D1%85-%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%BE%D0%B2)
-        - [Примеры функций высших порядков](https://github.com/KaiserRed/KaiserRed.github.io?tab=readme-ov-file#%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B9-%D0%B2%D1%8B%D1%81%D1%88%D0%B8%D1%85-%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%BE%D0%B2)
-4. [Примеры программ](https://github.com/KaiserRed/KaiserRed.github.io?tab=readme-ov-file#%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC)
-    - [Сложение трёх чисел](https://github.com/KaiserRed/KaiserRed.github.io?tab=readme-ov-file#%D1%81%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B4%D0%B2%D1%83%D1%85-%D1%87%D0%B8%D1%81%D0%B5%D0%BB)
-    - [Рекурсия и факториал](https://github.com/KaiserRed/KaiserRed.github.io?tab=readme-ov-file#%D1%80%D0%B5%D0%BA%D1%83%D1%80%D1%81%D0%B8%D1%8F-%D0%B8-%D1%84%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D0%B0%D0%BB)
-5. [Библиотеки и платформы](https://github.com/KaiserRed/KaiserRed.github.io?tab=readme-ov-file#%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8-%D0%B8-%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D1%8B)
+    - [Условные выражения](https://kaiserred.github.io/#%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5-%D0%B2%D1%8B%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F)
+    - [Списки](https://kaiserred.github.io/#%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8)
+    - [Стандартная библиотека](https://kaiserred.github.io/#%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D0%B0%D1%8F-%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0)
+    - [Функции высших порядков](https://kaiserred.github.io/#%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8-%D0%B2%D1%8B%D1%81%D1%88%D0%B8%D1%85-%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%BE%D0%B2)
+        - [Примеры функций высших порядков](https://kaiserred.github.io/#%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B9-%D0%B2%D1%8B%D1%81%D1%88%D0%B8%D1%85-%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%BE%D0%B2)
+4. [Примеры программ](https://kaiserred.github.io/#%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC)
+    - [Сложение трёх чисел](https://kaiserred.github.io/#%D1%81%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B4%D0%B2%D1%83%D1%85-%D1%87%D0%B8%D1%81%D0%B5%D0%BB)
+    - [Рекурсия и факториал](https://kaiserred.github.io/#%D1%80%D0%B5%D0%BA%D1%83%D1%80%D1%81%D0%B8%D1%8F-%D0%B8-%D1%84%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D0%B0%D0%BB)
+5. [Библиотеки и платформы](https://kaiserred.github.io/#%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8-%D0%B8-%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D1%8B)
 
 ## Реализованный функционал:
 
@@ -36,6 +36,7 @@ EmojiSharp - это уникальный и забавный функциона�
 - [ ] Библиотечные функции: ввод-вывод файлов
 - [x] Списки / Последовательности
 - [x] Библиотечные функции: списки/последовательности
+
 ## Основные типы данных
 
 - Логические значения: `Bool` - true
